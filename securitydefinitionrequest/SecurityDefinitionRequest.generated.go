@@ -3,11 +3,11 @@ package securitydefinitionrequest
 import (
 	"github.com/shopspring/decimal"
 
-	"github.com/quickfixgo/enum"
-	"github.com/quickfixgo/field"
-	"github.com/quickfixgo/fix42"
-	"github.com/quickfixgo/quickfix"
-	"github.com/quickfixgo/tag"
+	"github.com/terracefi/enum"
+	"github.com/terracefi/field"
+	"github.com/terracefi/fix42"
+	"github.com/terracefi/quickfix"
+	"github.com/terracefi/tag"
 )
 
 //SecurityDefinitionRequest is the fix42 SecurityDefinitionRequest type, MsgType = c

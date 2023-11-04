@@ -1,10 +1,10 @@
 package resendrequest
 
 import (
-	"github.com/quickfixgo/field"
-	"github.com/quickfixgo/fix42"
-	"github.com/quickfixgo/quickfix"
-	"github.com/quickfixgo/tag"
+	"github.com/terracefi/field"
+	"github.com/terracefi/fix42"
+	"github.com/terracefi/quickfix"
+	"github.com/terracefi/tag"
 )
 
 //ResendRequest is the fix42 ResendRequest type, MsgType = 2

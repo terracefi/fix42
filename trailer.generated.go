@@ -1,9 +1,9 @@
 package fix42
 
 import (
-	"github.com/quickfixgo/field"
-	"github.com/quickfixgo/quickfix"
-	"github.com/quickfixgo/tag"
+	"github.com/terracefi/field"
+	"github.com/terracefi/quickfix"
+	"github.com/terracefi/tag"
 )
 
 //Trailer is the fix42 Trailer type

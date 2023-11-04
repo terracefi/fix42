@@ -1,14 +1,15 @@
 package indicationofinterest
 
 import (
-	"github.com/shopspring/decimal"
 	"time"
 
-	"github.com/quickfixgo/enum"
-	"github.com/quickfixgo/field"
-	"github.com/quickfixgo/fix42"
-	"github.com/quickfixgo/quickfix"
-	"github.com/quickfixgo/tag"
+	"github.com/shopspring/decimal"
+
+	"github.com/terracefi/enum"
+	"github.com/terracefi/field"
+	"github.com/terracefi/fix42"
+	"github.com/terracefi/quickfix"
+	"github.com/terracefi/tag"
 )
 
 //IndicationofInterest is the fix42 IndicationofInterest type, MsgType = 6
